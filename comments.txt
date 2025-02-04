@@ -1,0 +1,15 @@
+#..................ADDED COMMENTS FOR MY UNDERSTANDING IN UPCOMING PROJECTS..................#
+#..................ADDED COMMENTS FOR PEOPLE AND MODULARISATION TO UNDERSTAND WHAT I WROTE..................#
+#..................ADDED COMMENTS FOR MYSELF TO UNDERSTAND WHAT I WROTE..................#
+#..................TKINTER GUI WEATHER APP..................#
+#..................WEATHER API USED..................#
+#..................WEATHER DATA STORED IN ANOTHER PY FILE..................#
+#..................PLACES LIST STORED IN ANOTHER PY FILE..................#
+#..................COMBOBOX USED FOR SEARCH BAR..................#
+#..................EMOJIS USED FOR WEATHER OUTPUT..................#
+#..................DATA DISPLAYED IN LABELS..................#
+#..................BUTTON USED TO GET DATA..................#
+#..................API KEY USED..................#
+#..................DATA DISPLAYED IN LABELS USING CONFIG METHOD..................#
+#..................DATA STORED IN VARIABLES..................#
+#..................DATA ACCESSED USING INDEXING..................#
